@@ -6,6 +6,6 @@ Ubuntu Pro is a new, commercial version of Ubuntu, designed specifically for ent
 
 feature list: https://ubuntu.com/pro
 
-how to enable the feature: subscribe to MYSELF on https://ubuntu.com/pro/subscribe
+how to enable the feature --> choose subscription "MYSELF" on https://ubuntu.com/pro/subscribe
 
 how to enable ubuntu pro: https://ubuntu.com/pro/tutorial
