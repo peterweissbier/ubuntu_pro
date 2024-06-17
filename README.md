@@ -1,4 +1,4 @@
-# ubuntu pro activation on ubuntu or any variants e.g. xubuntu, lubuntu, ...
+# ubuntu pro activation on ubuntu or any variants e.g. xubuntu, lubuntu etc
 
 # >>>free for personal subscription of up to 5 machines<<<
 
